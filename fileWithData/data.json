@@ -1,0 +1,54 @@
+{
+  "listFamilyPlants": [
+    {
+      "id": 1,
+      "name": "b",
+      "floweringTime": {
+        "firstMonthFlowering": "March",
+        "lastMonthFlowering": "January"
+      },
+      "listPlants": [
+        {
+          "id": 1,
+          "plant": "qqq",
+          "leaf": "qqq",
+          "stem": "qqq"
+        },
+        {
+          "id": 2,
+          "plant": "v",
+          "leaf": "v",
+          "stem": "v"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "a",
+      "floweringTime": {
+        "firstMonthFlowering": "March",
+        "lastMonthFlowering": "January"
+      },
+      "listPlants": [
+        {
+          "id": 1,
+          "plant": "rhser",
+          "leaf": "tjs",
+          "stem": "tj"
+        },
+        {
+          "id": 1,
+          "plant": "z",
+          "leaf": "z",
+          "stem": "z"
+        },
+        {
+          "id": 3,
+          "plant": "sss",
+          "leaf": "sss",
+          "stem": "sss"
+        }
+      ]
+    }
+  ]
+}
